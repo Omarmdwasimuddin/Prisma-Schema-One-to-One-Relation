@@ -131,6 +131,12 @@ user User @relation(
 
 ---
 
+## Table Relation — Visual Diagram
+
+![User ও Profile table-এর One-to-One relation diagram](https://i.imgur.com/jCYOGzZ.png)
+
+---
+
 ## One-to-One কীভাবে কাজ করে — সংক্ষেপে
 
 ```
