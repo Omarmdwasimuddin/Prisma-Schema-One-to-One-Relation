@@ -1,4 +1,4 @@
-# Prisma — One-to-One Relation (Line by Line)
+# Prisma — One-to-One Relation 
 
 ```prisma
 generator client {
