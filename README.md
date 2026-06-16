@@ -1,6 +1,6 @@
 # Prisma — One-to-One Relation (Line by Line)
 
-```schema
+```prisma
 generator client {
   provider = "prisma-client-js"
   output   = "../app/generated/prisma"
